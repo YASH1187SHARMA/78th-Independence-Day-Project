@@ -1,0 +1,93 @@
+/* CREATED BY - YASH SHARMA */
+
+body{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+}
+.container-1{
+    height: 700px;
+    width: 50%;
+    background-color: #736f82;
+}
+.container-1 .text{
+    font-size: 6rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url(text-image.jpg);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-top: 50px;
+    margin-bottom: 0px;
+        
+}
+.container-2{
+    height: 700px;
+    width: 50%;
+    background-color: #736f82;
+    }
+
+.container-2 .flag{
+    height: 488px;
+    width: 615px;
+    border: 2px solid black;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.container-2 .flag .orange{
+    height: 160px;
+    width: 100%;
+    border: 2px solid black;
+    background-color: #FF671F;
+}
+.container-2 .flag .white{
+    height: 160px;
+    width: 100%;
+    border: 2px solid black;
+    background-color: #ffffff;
+}
+
+.container-2 .flag .white .image{
+    background-image: url(Ashok\ chakra.png);
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin-left: 230px;
+    margin-top: 5px;
+}
+.container-2 .flag .green{
+    height: 160px;
+    width: 100%;
+    border: 2px solid black;
+    background-color: #046A38;
+}
+.content .speech{
+    font-size: 1.3rem;
+    color: white;
+    text-align: center;
+}
+.content .text-1{
+    font-size: 1.3rem;
+    color: white;
+    text-align: center;
+}
+.content .text-2{
+    font-size: 1.2rem;
+    color: white;
+    text-align: center;
+}
+ .name{
+    font-size: 1.3rem;
+    color: white;
+    text-transform: uppercase;
+    margin-left: 430px;
+    margin-top: 85px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+
+}
